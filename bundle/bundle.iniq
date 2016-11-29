@@ -1,7 +1,0 @@
-[settings]
-dst = /home/ses/Downloads/
-src = /home/ses/git/system_integration/
-
-[version]
-current = 0
-previous = -1
